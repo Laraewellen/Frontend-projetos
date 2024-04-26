@@ -1,0 +1,93 @@
+Body{
+    background-color: #000000;
+    font: 16px arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    color: #FFFFFF;
+    }
+    #nat{
+    padding: 2px;
+    margin: 0px;
+    border: 3px solid #830c0c;
+    left: 3px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    display: block;
+    border-radius: 5px;
+    }
+     #peter{
+        padding: 3px;
+        margin: 3px;
+        border: 3px solid #830c0c;
+        left: 2px;
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        top: 650px;
+        display: block;
+        border-radius: 5px;
+        }
+     #wanda{
+        padding: 3px;
+        margin: 3px;
+        border: 3px solid #830c0c;
+        left: 2px;
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        top: 1250px;
+        display: block;
+        border-radius: 5px;
+        }
+    #conteudo{
+        top: 0px;
+        position: relative;
+        display: block;
+        width: 800px;
+        height: 500px;
+        right: -300px;
+        padding: 5px;
+        margin: 3px;
+        border: 3px solid #830c0c;
+        border-radius: 5px;
+    }
+    #conteudo2{
+        top: 97px;
+        position: relative;
+        display: block;
+        width: 800px;
+        height: 500px;
+        right: -300px;
+        padding: 5px;
+        margin: 3px;
+        border: 3px solid #830c0c;
+        border-radius: 5px;
+    }
+    #conteudo3{
+        top: 190px;
+        position: relative;
+        display: block;
+        width: 800px;
+        height: 500px;
+        right: -300px;
+        padding: 5px;
+        margin: 3px;
+        border: 3px solid #830c0c;
+        border-radius: 5px;
+    }
+#rodape{
+    top: 200px;
+    position: relative;
+    display: block;
+    width: 1000;
+    height: 50px;
+    right: 0px;
+    padding: 4px;
+    margin: 3px;
+    border: 3px solid #000000;
+    border-radius: 4px;
+    text-align: center;
+    color: #4e1919;
+}
